@@ -28,7 +28,7 @@ student orgs, internships, and independent projects.
 
 ### 🏫 Involvement
 - **Cornell App Development** – Associate Product Manager 
-- **Hack4Impact Cornell** – Business Team 
+- **Hack4Impact @Cornell** – Business Team 
 - **CAPSU** – Director of Internal Affairs
 
 ---
@@ -40,4 +40,4 @@ student orgs, internships, and independent projects.
 
 ---
 
-*Always open to collaborating on meaningful projects or chatting about tech, product, or startups.*
+*Always open to collaborating on cool opportunities or chatting about tech, product, or startups.*
