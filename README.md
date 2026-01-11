@@ -19,7 +19,7 @@ student orgs, internships, and independent projects.
 ---
 
 ### 🚀 Projects
-- **Timing** – https://gettiming.com/
+- **Timing** – [https://gettiming.com/](https://gettiming.com/)
 - **Uplift (Cornell AppDev)** – iOS product focused on student wellness and engagement  
 
 
