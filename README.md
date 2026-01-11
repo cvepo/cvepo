@@ -2,8 +2,7 @@
 
 I'm a Computer Science student at **Cornell University** with a strong interest in
 **software engineering, product development, and data-driven systems**.
-I enjoy building things end-to-end — from backend infrastructure to user-facing features —
-with a focus on clarity, impact, and scalability.
+
 
 Previously, I’ve worked across **SWE, Product, and Analytics** roles through
 student orgs, internships, and independent projects.
