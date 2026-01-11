@@ -1,16 +1,43 @@
-## Hi there 👋
+## Hello! I'm Enzo 👋
 
-<!--
-**cvepo/cvepo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Science student at **Cornell University** with a strong interest in
+**software engineering, product development, and data-driven systems**.
+I enjoy building things end-to-end — from backend infrastructure to user-facing features —
+with a focus on clarity, impact, and scalability.
 
-Here are some ideas to get you started:
+Previously, I’ve worked across **SWE, Product, and Analytics** roles through
+student orgs, internships, and independent projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🔧 Programming Languages
+- Python 🐍
+- Java ☕
+- JavaScript / TypeScript
+- HTML + CSS
+- SQL
+
+---
+
+### 🚀 Projects
+- **Timing** – gettiming.com
+- **Uplift (Cornell AppDev)** – iOS product focused on student wellness and engagement  
+
+
+---
+
+### 🏫 Involvement
+- **Cornell App Development** – Associate Product Manager 
+- **Hack4Impact Cornell** – Business Team 
+- **CAPSU** – Director of Internal Affairs
+
+---
+
+### 📫 Connect with Me
+- Email: emh274@cornell.edu  
+- LinkedIn: https://linkedin.com/in/your-link ](https://www.linkedin.com/in/enzo-hiu-123750245/) 
+
+
+---
+
+*Always open to collaborating on meaningful projects or chatting about tech, product, or startups.*
