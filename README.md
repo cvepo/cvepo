@@ -34,7 +34,7 @@ student orgs, internships, and independent projects.
 
 ### 📫 Connect with Me
 - Email: emh274@cornell.edu  
-- LinkedIn: https://linkedin.com/in/your-link ](https://www.linkedin.com/in/enzo-hiu-123750245/) 
+- LinkedIn:(https://www.linkedin.com/in/enzo-hiu-123750245/) 
 
 
 ---
